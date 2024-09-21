@@ -1,6 +1,7 @@
 import React from "react";
 
 const page = ({ params }) => {
+	// visible only on terminal and
 	// unable to see on console, as it is by default => "server component"
 	console.log(params);
 
