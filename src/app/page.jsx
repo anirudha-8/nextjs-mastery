@@ -8,7 +8,7 @@ export default function Home() {
 			<h1>Welcome to Next App</h1>
 			{/* <LearnLink /> */}
 			{/* <LearnUseRouterHook /> */}
-			<LearnDataFetching />
+			{/* <LearnDataFetching /> */}
 		</main>
 	);
 }
